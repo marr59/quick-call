@@ -1,0 +1,10 @@
+.env
+calls/
+*.log
+*.nohup
+*.mp3
+*.wav
+*.m4a
+*.ogg
+transcripts/
+__pycache__/
